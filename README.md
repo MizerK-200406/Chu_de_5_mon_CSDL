@@ -109,4 +109,6 @@ ORDER BY lh.MaLH DESC;
 
 Mọi thao tác của website dùng `benhvien_ehr_test`. Giữ `benhvien0` chỉ đọc để đối chiếu dữ liệu gốc.
 
+# Dùng draw.io để xem bảng (file draw.io)
+
 # Chu_de_5_mon_CSDL
